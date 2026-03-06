@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "つながリーヨ",
+  "base_artist": "Ｔ－Ｐｉｓｔｏｎｚ＋ＫＭＣ",
+  "createdAt": "2026-03-06T03:47:53.039358Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "つながリーヨ (アニメオープニングVer.)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/01_つながリーヨ_(アニメオープニングVer.)_Various_Artists.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "つながリーヨ",
+      "artist": "T-Pistonz+KMC",
+      "has_synced": false,
+      "path": "select/pl_01_つながリーヨ_T-Pistonz+KMC.txt"
+    }
+  ]
+}
